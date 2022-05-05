@@ -83,12 +83,13 @@ nand(y6,a,b);
 nor(y7,a,b);
 endmodule  
 ~~~
-## Logic symbol & Truthtable
+## Logic symbol & Truthtable:
+![LogicGates](m13.png)
 
 ## RTL realization 
 ![RTL](m11.png)
 ## Output:
-![RTL](m12.png)
+![Output](m12.png)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
